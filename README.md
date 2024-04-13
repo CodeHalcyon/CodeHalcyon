@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Digital Clock](https://github.com/CodeHalcyon/Digital_Clock)
+- 🔭 I’m currently working on [CP Tracker]([https://github.com/CodeHalcyon/Digital_Clock](https://cp-tracker-rho.vercel.app/))
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend Devlopment**
 
 - 🤝 I’m looking for help with [Digital Clock](Digital_Clock)
 
