@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [CP Tracker](https://cp-tracker-rho.vercel.app/)
+- 🔭 I’m currently working on [AI Teacher](https://chetans-ai-teacher.streamlit.app/)
 
-- 🌱 I’m currently learning **Backend Devlopment**
+- 🌱 I’m currently learning **GenAI**
 
-- 🤝 I’m looking for help with [Digital Clock](Digital_Clock)
+- 🤝 I’m looking for help with Making an Image Context Understanding model.
 
-- 👨‍💻 All of my projects are available at [https://codehalcyon.github.io/Chetan_Portfolio/](https://codehalcyon.github.io/Chetan_Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](CHETAN-portfolio-six.vercel.app)
 
 - 💬 Ask me about **AI, Development and Movies**
 
